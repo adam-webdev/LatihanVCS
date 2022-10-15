@@ -170,6 +170,29 @@
 
     - Kita sudah berhasil menyimpan repository kita di `GITHUB`
 
+15. Jika kita ingin menggunakan repository yang telah ada di Github kita bisa mendownload atau mengclone pertama klik `code` berwarna hijau lalu copy url https repository kita :
+
+      ![Berikut File Git yang sudah didownload](img/img-penggunaan-git/clone.png)
+
+    Berikut perintah untuk menggunakan git clone :
+    - `git clone https://github.com/adam-webdev/LatihanVCS.git `
+
+
+      ![Berikut File Git yang sudah didownload](img/img-penggunaan-git/cloning.png)
+
+    - Masuk kerepository dengan cara `cd LatihanVCS`
+
+    Setelah itu jangan lupa untuk melakukan pull untuk mengetahui perubahan yang terakhir dilakukan
+
+    - `git pull origin main `
+
+      ![Berikut File Git yang sudah didownload](img/img-penggunaan-git/pull.png)
+
+    - Atau anda juga bisa mendownload langsung dengan memilih download zip
+
+      ![Berikut File Git yang sudah didownload](img/img-penggunaan-git/clone.png)
+
+
 
 
 
